@@ -4,4 +4,5 @@
     <string name="Text_Message">Tapez votre message</string>
     <string name="Text_Connexion">Connexion</string>
     <string name="listes">Logged</string>
+    <string name="Surname">Surnom</string>
 </resources>
